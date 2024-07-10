@@ -1,5 +1,5 @@
 # PNC-Spark
-# PNC-Spark
+
 ## Overview
 
 PNC Spark is a child-friendly mobile banking application designed to teach financial literacy to children ages 8-10. The app features interactive components like chore trackers, virtual savings goals with a pet, and educational quizzes to promote responsible money management in a fun and engaging way.
